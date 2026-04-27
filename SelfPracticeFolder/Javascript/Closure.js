@@ -1,12 +1,30 @@
+// function x(){
+
+// let a = 5;
+
+// return function y(){
+// a = 100;
+//   console.log(a); 
+// }
+
+// }
+// var z = x();
+// z();
+
 function x(){
+let a = 100;
 
-let a = 5;
+ return function y(){
+    a = 200;
 
-return function y(){
-a = 100;
-  console.log(a); 
+    function z(){
+      console.log(a);
+    }
+    z();
+  }
+  y()
+  
 }
 
-}
-var z = x();
-z(); 
+var c = x();
+ c(); // Output: [Function: y]
