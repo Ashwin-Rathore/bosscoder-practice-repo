@@ -5,7 +5,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/SelfPracticeFolder/Javascript/Array.js",
+      "program": "${workspaceFolder}/SelfPracticeFolder/Programs/PalindromeString",
       "console": "integratedTerminal"
     }
   ]
