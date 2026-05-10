@@ -12,7 +12,7 @@ let winnerPattern = [
   [0, 4, 8],
   [2, 4, 6],
 ];
-
+let b =10;
 let value0 = true;
 
 // Add click event to each box
