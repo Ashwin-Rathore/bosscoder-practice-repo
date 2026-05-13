@@ -17,4 +17,4 @@ let palindrom = (input) => {
   return "Palindrom";
 };
 
-console.log(palindrom("raceeacar"));
+console.log("Palindrom- ", palindrom("raceeacar"));
