@@ -34,7 +34,7 @@ input = input.reduce((current,next) => current* next);
 // console.log(newAr);
 // //}
 
-
+let input2 = [5, 4, 3, 2, 1];
 
 let input1 = [5, 4, 3, 2, 1];
 console.log(input1);

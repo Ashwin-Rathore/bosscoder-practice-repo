@@ -20,7 +20,7 @@ let reverseStr = (str) =>{
   return newstr;
 }
 
-console.log(reverseStr(str));
+console.log("REverse- ",reverseStr(str));
 
 
 let finalResult = str.split('').reverse().join('');
