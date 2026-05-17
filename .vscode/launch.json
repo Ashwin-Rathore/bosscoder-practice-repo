@@ -2,6 +2,41 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Pattern6",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern6",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Pattern4",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern4",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Pattern3",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern3",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern2",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern1",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
