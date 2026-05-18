@@ -10,25 +10,51 @@ package BOSSCODER_Sessions.JavaExecution;
 
 public class Pattern7 {
 
-    public static void pattern(int row, int column){
+  public static void main(String[] args) {
 
-        for(int i =0;i<row;i++){
+        int n = 4;
 
-          for(int j =0;j<column;j++){
-     
-            System.out.print("* ");
+        // Upper Half
+        for (int i = 1; i <= n; i++) {
+
+            // Print spaces
+            for (int j = n; j > i; j--) {
+                System.out.print(" ");
             }
-          System.out.println("");
+
+            // Print stars and inner spaces
+            for (int j = 1; j <= (2 * i - 1); j++) {
+
+                if (j == 1 || j == (2 * i - 1)) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+
+            System.out.println();
         }
 
-    }
-  
-    public static void main(String[] args) {
+        // Lower Half
+        for (int i = n - 1; i >= 1; i--) {
 
+            // Print spaces
+            for (int j = n; j > i; j--) {
+                System.out.print(" ");
+            }
 
-        pattern(7, 7);
+            // Print stars and inner spaces
+            for (int j = 1; j <= (2 * i - 1); j++) {
 
+                if (j == 1 || j == (2 * i - 1)) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
 
+            System.out.println();
+        }
     }
 
 }
