@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pattern7_Retry",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern7_Retry",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "Pattern7",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.JavaExecution.Pattern7",

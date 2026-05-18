@@ -12,7 +12,7 @@ public class Pattern7 {
 
   public static void main(String[] args) {
 
-        int n = 4;
+        int n = 3;
 
         // Upper Half
         for (int i = 1; i <= n; i++) {
