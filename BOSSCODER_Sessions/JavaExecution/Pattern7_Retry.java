@@ -31,9 +31,7 @@ public class Pattern7_Retry {
                newTemp++;   
                       
         }
-        // System.out.println("TEMP :"+temp);
-        // System.out.println("NEW_TEMP :"+newTemp);
-         //
+       
                  temp = 1;
                  newTemp = (n * 2) - 1;
             for(int k=n-1;k>0;k--){
