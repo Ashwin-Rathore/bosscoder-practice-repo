@@ -61,20 +61,20 @@ public static void main(String[] args) {
 //  * * * *
 // * * * * *
 
-// int row = 5;
-// int column = 5;
+int row = 5;
+int column = 5;
 
-// for(int i=0;i<row;i++){
+for(int i=0;i<row;i++){
 
-//   for(int j =0;j<column-i-1;j++ ){
-//     System.out.print(" ");
-//   }
+  for(int j =0;j<column-i-1;j++ ){
+    System.out.print(" ");
+  }
    
-//   for(int k =column-i;k<=column;k++){
-//     System.out.print("* ");
-//   }
-//    System.out.println();
-// }
+  for(int k =0;k<=i;k++){
+    System.out.print("* ");
+  }
+   System.out.println();
+}
 
 //---------------5--------------------
 
@@ -85,22 +85,22 @@ public static void main(String[] args) {
 // 1   4   6   4   1
 
 
-int row = 5;
-int column = 5;
+// int row = 5;
+// int column = 5;
 
-for(int i=0;i<row;i++){
+// for(int i=0;i<row;i++){
 
-  for(int j =0;j<column-i;j++ ){
-    System.out.print(" ");
-  }
+//   for(int j =0;j<column-i;j++ ){
+//     System.out.print(" ");
+//   }
    
-  for(int k =0;k<=i;k++){
-    // System.out.println("value of i: "+i +" -- Value of k :"+k);
-     System.out.print(ncr(i,k)+" ");
-   // System.out.print("* ");
-  }
-   System.out.println();
-}
+//   for(int k =0;k<=i;k++){
+//     // System.out.println("value of i: "+i +" -- Value of k :"+k);
+//      System.out.print(ncr(i,k)+" ");
+//    // System.out.print("* ");
+//   }
+//    System.out.println();
+// }
 
 
 
