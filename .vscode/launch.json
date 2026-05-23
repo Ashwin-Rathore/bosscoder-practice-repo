@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestPractice",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.TestPractice",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "WordPattern",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.JavaExecution.WordPattern",
