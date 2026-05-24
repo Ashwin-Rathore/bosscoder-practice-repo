@@ -1,18 +1,19 @@
+// * 
+// * * 
+// * * * 
 // * * * * 
-// * * * * 
-// * * * * 
-// * * * * 
-// * * * * 
+// * * * * * 
 
-package BOSSCODER_Sessions.JavaExecution;
 
-public class Pattern1 {
+package BOSSCODER_Sessions.JavaPracticeExecution;
+
+public class Pattern2 {
 
     public static void pattern(int row, int column){
 
         for(int i =0;i<row;i++){
 
-          for(int j =0;j<column;j++){
+          for(int j =0;j<=i;j++){
               System.out.print("* ");
           }
           System.out.println("");

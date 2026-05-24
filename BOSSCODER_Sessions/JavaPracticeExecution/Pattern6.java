@@ -4,7 +4,7 @@
 // *       *
 // * * * * *
 
-package BOSSCODER_Sessions.JavaExecution;
+package BOSSCODER_Sessions.JavaPracticeExecution;
 
 public class Pattern6 {
 

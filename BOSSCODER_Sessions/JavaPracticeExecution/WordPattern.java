@@ -1,4 +1,4 @@
-package BOSSCODER_Sessions.JavaExecution;
+package BOSSCODER_Sessions.JavaPracticeExecution;
 
 import java.util.HashMap;
 

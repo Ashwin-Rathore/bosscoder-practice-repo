@@ -1,4 +1,4 @@
-package BOSSCODER_Sessions.JavaExecution;
+package BOSSCODER_Sessions.JavaPracticeExecution;
 
 public class ConcatArray {
   public static void main(String[] args) {
@@ -15,5 +15,6 @@ public class ConcatArray {
           System.out.print(newArr[j]+" ");
         }
 }
-
+  }
+}
 

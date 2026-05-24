@@ -5,7 +5,7 @@
 // 1   4   6   4   1
 
 
-package BOSSCODER_Sessions.JavaExecution;
+package BOSSCODER_Sessions.JavaPracticeExecution;
 
 public class Pattern5 {
   
