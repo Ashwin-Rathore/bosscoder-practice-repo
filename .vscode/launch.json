@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlusOne",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.PlusOne",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "MaximumProductOfTwoElements",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.MaximumProductOfTwoElements",
