@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReturningArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.ReturningArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "AddinfArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.AddinfArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "ConcatArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.ConcatArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "PermutataionArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.PermutataionArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.JavaExecution.ReverseArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "TestPractice",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.JavaExecution.TestPractice",
