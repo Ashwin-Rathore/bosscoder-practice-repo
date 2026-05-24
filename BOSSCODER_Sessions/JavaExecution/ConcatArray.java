@@ -15,5 +15,6 @@ public class ConcatArray {
           System.out.print(newArr[j]+" ");
         }
 }
-
+  }
+}
 
