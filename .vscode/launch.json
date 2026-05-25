@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LeftAndRightSumDifferences",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.LeftAndRightSumDifferences",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "PlusOne",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.PlusOne",
