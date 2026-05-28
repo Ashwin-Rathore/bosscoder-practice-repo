@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SingleNumber",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.SingleNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "FindNUniqueSumToZero",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.FindNUniqueSumToZero",
