@@ -1,6 +1,14 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
+    {
+      "type": "java",
+      "name": "containsDuplicate",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.containsDuplicate",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
     {
       "type": "java",
       "name": "BestTimeToBuyAndSellStock",
@@ -174,6 +182,13 @@
       "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceFolder}/SelfPracticeFolder/Programs/PalindromeString",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "MoveZeroes",
+      "program": "${workspaceFolder}/BOSSCODER_Sessions/Session_5_1D_Array_24_May/MoveZeroes",
       "console": "integratedTerminal"
     }
   ]
