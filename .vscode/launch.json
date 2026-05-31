@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RichestCustomerWealth",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_6_2S_Array_30_May.RichestCustomerWealth",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "MatrixDiagonalSum",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_6_2S_Array_30_May.MatrixDiagonalSum",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "containsDuplicate",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.containsDuplicate",
