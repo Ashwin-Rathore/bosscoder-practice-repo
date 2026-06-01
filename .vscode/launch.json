@@ -217,6 +217,13 @@
       "name": "ConcatenationOfArray",
       "program": "${workspaceFolder}/BOSSCODER_Sessions/Session_5_1D_Array_24_May/ConcatenationOfArray",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "MostFrequentEvenElement",
+      "program": "${workspaceFolder}/BOSSCODER_Sessions/Session_5_1D_Array_24_May/MostFrequentEvenElement",
+      "console": "integratedTerminal"
     }
   ]
 }
