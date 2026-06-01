@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseWordsInString",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.ReverseWordsInString",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "RichestCustomerWealth",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_6_2S_Array_30_May.RichestCustomerWealth",
