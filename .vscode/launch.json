@@ -210,6 +210,13 @@
       "name": "FlippingAnImage",
       "program": "${workspaceFolder}/BOSSCODER_Sessions/Session_6_2S_Array_30_May/FlippingAnImage",
       "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "ConcatenationOfArray",
+      "program": "${workspaceFolder}/BOSSCODER_Sessions/Session_5_1D_Array_24_May/ConcatenationOfArray",
+      "console": "integratedTerminal"
     }
   ]
 }
