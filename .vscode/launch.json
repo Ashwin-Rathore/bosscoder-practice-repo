@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.ReverseString",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "SortingTheSentence",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.SortingTheSentence",
