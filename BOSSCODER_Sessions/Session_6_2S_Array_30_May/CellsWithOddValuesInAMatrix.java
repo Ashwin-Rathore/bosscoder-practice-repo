@@ -12,10 +12,14 @@ public class CellsWithOddValuesInAMatrix {
             }
         }
 
+        // String s = "avd";
+        // s.sort
+
+
         for(int indRow=0;indRow<indices.length;indRow++){
             for(int indCol=0;indCol<indices[indRow].length;indCol++){
                   if(indices[indRow][indCol] == 1){
-                      
+
                   }
 
                 }
