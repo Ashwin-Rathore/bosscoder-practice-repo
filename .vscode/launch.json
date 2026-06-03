@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GreatestEnglishLetterInUpperAndLowerCase",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.GreatestEnglishLetterInUpperAndLowerCase",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "CellsWithOddValuesInAMatrix",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_6_2S_Array_30_May.CellsWithOddValuesInAMatrix",
