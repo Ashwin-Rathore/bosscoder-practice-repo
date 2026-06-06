@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountVowelSubstringsOfAString",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.CountVowelSubstringsOfAString",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "CircularSentence",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.CircularSentence",
