@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swapTwoNumbers",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.swapTwoNumbers",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "SingleNumber",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.SingleNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "BinaryToDecimal",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Java.BitManipulation.BinaryToDecimal",
