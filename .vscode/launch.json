@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinaryToDecimal",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.BinaryToDecimal",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.DecimalToBinary",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "CountPairsOfSimilarStrings",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.CountPairsOfSimilarStrings",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "CountVowelSubstringsOfAString",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.CountVowelSubstringsOfAString",
