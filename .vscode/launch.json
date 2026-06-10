@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.DataTypes",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Complement",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.Complement",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "swapTwoNumbers",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Java.BitManipulation.swapTwoNumbers",
