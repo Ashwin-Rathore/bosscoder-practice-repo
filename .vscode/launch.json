@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kthBitSetOrNot",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.kthBitSetOrNot",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.Power",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "DataTypes",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Java.BitManipulation.DataTypes",
