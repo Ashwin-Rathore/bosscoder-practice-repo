@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TurnOnBit",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Java.BitManipulation.TurnOnBit",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "kthBitSetOrNot",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Java.BitManipulation.kthBitSetOrNot",
