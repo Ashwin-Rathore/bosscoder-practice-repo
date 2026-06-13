@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ScoreValidator",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.ScoreValidator",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "CheckAdjacentDigitDifferences",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.CheckAdjacentDigitDifferences",
