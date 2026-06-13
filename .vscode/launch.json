@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumBitFlipsToConvertNumber",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.MinimumBitFlipsToConvertNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "XOR_OperationInAnArray",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.XOR_OperationInAnArray",
