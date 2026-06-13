@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FirstMatchingCharacterFromBothEnds",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.FirstMatchingCharacterFromBothEnds",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "ScoreValidator",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.ScoreValidator",
