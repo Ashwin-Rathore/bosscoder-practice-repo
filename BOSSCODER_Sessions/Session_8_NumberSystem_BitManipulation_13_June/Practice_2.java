@@ -1,29 +1,23 @@
 package BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June;
 
 public class Practice_2 {
-    static public double powerFind(int a){
-        double num =0;
-        int count = 0;
-        
-      //   for(int i=0;i<32;i++){
-      //       if (16==(1<<i)) {
-      //         if (count >1) break;
-      //         count ++;
-      //     num =  Math.pow(2, i);
-      //       }
-      //   }
+    static public boolean powerFind(int a){
+        if(a ==0) return false;
+        while(a>0){
+            if(a==1) return true;
+            if(a%2==1) return false;
+            a = a/2;
+            
+        }
 
-
-
-      // return num;
-   
+        return true;
    
    
    
     }
 
   public static void main(String[] args) {
-        int a = 32;
+        int a = 12;
         System.out.println(powerFind(a));
   }
 }
