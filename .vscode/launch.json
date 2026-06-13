@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "XOR_OperationInAnArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.XOR_OperationInAnArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Practice_2",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.Practice_2",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Practice_1",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.Practice_1",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "TrimTrailingVowels",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_7_String_31_May.TrimTrailingVowels",
