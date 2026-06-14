@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.BinarySearch",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "SumXorAllSubsets",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.SumXorAllSubsets",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "CountSetBits",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.CountSetBits",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "CountingBits",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_8_NumberSystem_BitManipulation_13_June.CountingBits",
