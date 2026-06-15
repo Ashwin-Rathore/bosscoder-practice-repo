@@ -15,9 +15,6 @@ public class DecendingOrder {
               }
                 else if(arr[mid]< k) r = mid-1;
                   else  l = mid+1;
-            
-
-
           }
 
       return flag;
