@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DecendingOrder",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.DecendingOrder",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "FirstAndLastOccurance",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.FirstAndLastOccurance",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "LastOccurance",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.LastOccurance",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.BinarySearch",
