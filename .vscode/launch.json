@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindPeakElement",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.FindPeakElement",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "DecendingOrder",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.DecendingOrder",
