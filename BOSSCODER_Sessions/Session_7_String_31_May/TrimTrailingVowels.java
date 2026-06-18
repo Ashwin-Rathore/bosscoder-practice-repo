@@ -15,6 +15,6 @@ public class TrimTrailingVowels {
   }
   public static void main(String[] args) {
     String s = "day";
-    System.out.println(trimVowel(s));
+    System.out.println(trimVowel(s));  
   }
 }
