@@ -20,7 +20,7 @@ public class LastOccurance {
       }
 
 
-    return index;
+    return index;  // test
   }
   
   public static void main(String[] args) {
