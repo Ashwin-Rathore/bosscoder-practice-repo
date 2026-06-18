@@ -38,7 +38,7 @@ public class FirstAndLastOccurance {
       System.out.println(finalIndexs[0]+" : "+finalIndexs[1]);
 
       return finalIndexs;
-    }
+    } //add
 
   public static void main(String[] args) {
     int[] arr = {1,3,5,5,5,5,67,123,155};
