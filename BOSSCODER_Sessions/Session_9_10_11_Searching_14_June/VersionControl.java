@@ -2,7 +2,7 @@ package BOSSCODER_Sessions.Session_9_10_11_Searching_14_June;
 
 public class VersionControl {
 
-  public int firstBadVersion(int n) {
+  public static int firstBadVersion(int n) {
         int l =1;
         int r = n;
         while(l<=r){
