@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test2",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.Test2",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.Test1",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "FindPeakElement",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_Searching_14_June.FindPeakElement",
