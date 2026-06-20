@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindSmallestLetterGreaterThanTarget",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.FindSmallestLetterGreaterThanTarget",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "Test2",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.Test2",
