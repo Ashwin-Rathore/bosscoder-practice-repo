@@ -5,7 +5,7 @@ public class hcf {
   public static int findFactor(int a,int b){
       // int max_a = 0;
       // int max_b = 0;
-      // boolean flag = false;
+      boolean flag = false;
       //   // for(int i=1;i<a/2;i++){
       //   //     if(a%i==0){
       //   //         if(i> max_a){
@@ -32,7 +32,7 @@ public class hcf {
           if(newNum%a==0) return newNum; 
 
 
-
+      return flag;
   }
 
   public static void main(String[] args) {
