@@ -2,7 +2,7 @@ package BOSSCODER_Sessions.Session_12_Maths;
 
 public class hcf {
 
-  public static int findFactor(int a,int b){
+  public static boolean findFactor(int a,int b){
       // int max_a = 0;
       // int max_b = 0;
       boolean flag = false;
@@ -29,7 +29,7 @@ public class hcf {
 
         int newNum = 0;
           newNum = b%a;
-          if(newNum%a==0) return newNum; 
+       //   if(newNum%a==0) return newNum; 
 
 
       return flag;
