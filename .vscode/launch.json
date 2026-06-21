@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_12_Maths.PrimeNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "hcf",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_12_Maths.hcf",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Two_Sum_II_InputArrayIsSorted",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.Two_Sum_II_InputArrayIsSorted",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "FindSmallestLetterGreaterThanTarget",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.FindSmallestLetterGreaterThanTarget",
