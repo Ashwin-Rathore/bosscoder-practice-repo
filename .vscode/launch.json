@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumCommonValue",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.MinimumCommonValue",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "NumberOfGoodPairs",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_12_Maths.NumberOfGoodPairs",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "PrimeNumber",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_12_Maths.PrimeNumber",
