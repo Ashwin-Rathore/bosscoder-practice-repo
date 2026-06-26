@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.SelectionSort",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "MoveAllZerosToEnd",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.MoveAllZerosToEnd",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "SortInDescendingOrder",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.SortInDescendingOrder",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "SingleNumberIII",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.SingleNumberIII",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "KthMissingPositiveNumber",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.KthMissingPositiveNumber",
