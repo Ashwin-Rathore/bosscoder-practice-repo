@@ -4,24 +4,18 @@ public class SelectionSort {
   
   public static int[] SelectionSortElement(int[] arr){
       int n = arr.length;
-      for(int i=0;i<n;i++){
-          int swapElement = 0;
-          for( int j=0;j<n;j++){
-              int temp = arr[j];
-              for(int k=j+1;k<n;k++){
-                if(temp>arr[k]){
-                    temp = arr[k];
-                }
 
+      for( int i=0;i<n-1;i++){
+            int minIndex = i;
+          for( int j =i+1;j<n;j++){
+              if(arr[j]<arr[minIndex]){
+                  minIndex = j;
               }
-                int finalTemp = temp;
-                temp = arr[j];
-                arr[j] = finalTemp;
-
-
-          }
-
-
+            }
+          int temp = arr[minIndex];
+          arr[minIndex] = arr[i];
+          arr[i] = temp;
+          print(arr);
       }
 
     return arr;
