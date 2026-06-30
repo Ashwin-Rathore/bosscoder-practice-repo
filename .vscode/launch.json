@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LimitOccurrencesInSortedArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.LimitOccurrencesInSortedArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "CommonElement",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.CommonElement",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "FindPairWithGivenSum",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.FindPairWithGivenSum",
