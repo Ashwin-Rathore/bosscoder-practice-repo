@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindPairWithGivenSum",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.FindPairWithGivenSum",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "SelectionSortTest",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.SelectionSortTest",
