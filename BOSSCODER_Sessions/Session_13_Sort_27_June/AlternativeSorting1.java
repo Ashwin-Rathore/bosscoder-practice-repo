@@ -1,6 +1,6 @@
 package BOSSCODER_Sessions.Session_13_Sort_27_June;
 
-public class AlternativeSorting {
+public class AlternativeSorting1 {
   
   public static int[] bubbleSortInIncreasingOrder(int[] arr){
       int len = arr.length;
