@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelectionSortTest",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.SelectionSortTest",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "MergeTwoSortedArray",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.MergeTwoSortedArray",
