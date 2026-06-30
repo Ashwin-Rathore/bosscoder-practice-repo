@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AlternativeSorting",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.AlternativeSorting",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.BubbleSort",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.InsertionSort",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "KthSmallestElement",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.KthSmallestElement",

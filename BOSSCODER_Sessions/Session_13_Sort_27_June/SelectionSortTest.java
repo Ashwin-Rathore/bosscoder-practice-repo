@@ -11,22 +11,37 @@ public class SelectionSortTest {
 
     public static int[] SelectionSortTestMethod(int [] arr){
       int n = arr.length;
-      for(int i =0;i<n-1;i++){ 
-          int min = i;
-          for(int j=i;j<n;j++){
-              if(arr[j]>arr[min]){
-                  min =j;
-              }
+      // for(int i =0;i<n-1;i++){ 
+      //     int min = i;
+      //     for(int j=i;j<n;j++){
+      //         if(arr[j]>arr[min]){
+      //             min =j;
+      //         }
+      //     }
+      //     int temp = arr[i];
+      //     arr[i] = arr[min];
+      //     arr[min] = temp;
+      // }
+    // return arr;
+
+     int len = arr.length;
+     
+     for(int i=0;i<len-1;i++){
+          int mindex = i;
+          for(int j=i;j<len;j++){
+                    if(arr[j]<arr[mindex]){
+                         mindex = j;
+                    }
+
           }
+               int temp = arr[i];
+               arr[i] = arr[mindex];
+               arr[mindex] = temp;
 
-          int temp = arr[i];
-          arr[i] = arr[min];
-          arr[min] = temp;
-      }
+     
+     }
 
-
-
-      return arr;
+     return arr;
     }
 
 
