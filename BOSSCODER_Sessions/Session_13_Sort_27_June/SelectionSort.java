@@ -16,23 +16,33 @@ public class SelectionSort {
     //       arr[minIndex] = arr[i];
     //       arr[i] = temp;
     //       //    print(arr);
-          
-    //   }
+          //   }
 
-for(int i=0;i<n-1;i++){
+            for(int i=1;i<n-1;i+=2){
+              int mindex = i;
+              for(int j=i+1;j<n;j+=2){
+                if(arr[j]>arr[mindex]){
+                        mindex = j;
+                }
+            }
+              int temp = arr[mindex];
+              arr[mindex] = arr[i];
+              arr[i] = temp;
             
-            int mindex = i;
-            
-            for(int j=i+1;j<n;j++){
+            }
+
+            for(int i=0;i<n-1;i+=2){
+              int mindex = i;
+              for(int j=i+1;j<n;j+=2){
                 if(arr[j]<arr[mindex]){
                         mindex = j;
                 }
             }
-            int temp = arr[mindex];
-            arr[mindex] = arr[i];
-            arr[i] = temp;
+              int temp = arr[mindex];
+              arr[mindex] = arr[i];
+              arr[i] = temp;
             
-        }
+            }
 
     return arr;
   }
