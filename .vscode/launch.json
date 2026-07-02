@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SmallestGoodBase",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_9_10_11_Searching_14_June.SmallestGoodBase",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "MaximizeSumOfArrayAfterKNegations",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.MaximizeSumOfArrayAfterKNegations",
