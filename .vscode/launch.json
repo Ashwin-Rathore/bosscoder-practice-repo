@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximizeSumOfArrayAfterKNegations",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.MaximizeSumOfArrayAfterKNegations",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "AllPrimeFactors",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_12_Maths.AllPrimeFactors",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "MinimumDifferencePair",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.MinimumDifferencePair",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "AlternateSorting2",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_13_Sort_27_June.AlternateSorting2",
