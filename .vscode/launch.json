@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumSwapsToMoveZerosToEnd",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.MinimumSwapsToMoveZerosToEnd",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "RotateArray",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Programs.RotateArray",
