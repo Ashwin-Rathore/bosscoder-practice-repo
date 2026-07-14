@@ -13,7 +13,7 @@ public class FindMedianSortedArrays {
     Arrays.sort(arr);
     
      int mid = arr.length / 2;
-    if ((arr.length & 1) == 1) {
+    if ((arr.length & 1) == 1) { // 231
       median = arr[mid];
     } else {
       System.out.println("arr[mid] : " + arr[mid]);
