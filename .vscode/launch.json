@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindMedianSortedArrays",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.FindMedianSortedArrays",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "MinimumSwapsToMoveZerosToEnd",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.MinimumSwapsToMoveZerosToEnd",
