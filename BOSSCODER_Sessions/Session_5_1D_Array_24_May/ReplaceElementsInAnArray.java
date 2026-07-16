@@ -1,10 +1,8 @@
 package BOSSCODER_Sessions.Session_5_1D_Array_24_May;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
+
 import java.util.HashMap;
-import java.util.List;
+
 
 public class ReplaceElementsInAnArray {
   public static void print(int[] arr) {
