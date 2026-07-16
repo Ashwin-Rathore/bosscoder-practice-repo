@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReplaceElementsInAnArray",
+      "request": "launch",
+      "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.ReplaceElementsInAnArray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "AssignCookies",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.AssignCookies",
