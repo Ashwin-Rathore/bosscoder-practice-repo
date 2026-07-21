@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sum_1toN_",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.Sum_1toN_",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "AraiseToPowerB",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.AraiseToPowerB",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.Factorial",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "PrintIncreasingDescreasing",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.PrintIncreasingDescreasing",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Print1_n",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.Print1_n",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "TrappingRainWater",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_1_18Jul.TrappingRainWater",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Fibonaaci",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_1_18Jul.Fibonaaci",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "WaveyArray",
       "request": "launch",
       "mainClass": "BOSSCODER_Sessions.Session_5_1D_Array_24_May.WaveyArray",
