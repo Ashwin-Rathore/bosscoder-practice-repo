@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FactorialTrailingZeroes",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.FactorialTrailingZeroes",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "HCF_TwoNumber",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.HCF_TwoNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "SelfPracticeFolder.Recursion.ReverseNumber",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "Sum_1toN_",
       "request": "launch",
       "mainClass": "SelfPracticeFolder.Recursion.Sum_1toN_",
