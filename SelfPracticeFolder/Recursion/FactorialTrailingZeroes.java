@@ -5,7 +5,7 @@ public class FactorialTrailingZeroes {
     public static int trailingZeroes(int n) {
 
       String a = "ab";
-      a.to
+      
         int trail = 0;
             if(n==0) return trail;
         long fact = 1;

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kthBitShift",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_3_25Jul.kthBitShift",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "RangeSumQuery2D",
       "request": "launch",
       "mainClass": "Bosscoder_Module_2.Session_2_19Jul.RangeSumQuery2D",
