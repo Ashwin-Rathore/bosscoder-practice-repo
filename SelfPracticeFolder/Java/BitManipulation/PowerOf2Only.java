@@ -9,6 +9,7 @@ public class PowerOf2Only {
     System.out.print("Insert Number for Power :  ");
     int n = sc.nextInt();
     System.out.println(1 << n);
+    sc.close();
 
   }
 }

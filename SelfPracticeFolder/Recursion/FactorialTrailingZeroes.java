@@ -4,7 +4,6 @@ public class FactorialTrailingZeroes {
   
     public static int trailingZeroes(int n) {
 
-      String a = "ab";
       
         int trail = 0;
             if(n==0) return trail;
