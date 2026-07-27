@@ -6,7 +6,7 @@ public class BinaryToDecimal {
           for(int i=s.toCharArray().length-1;i>=0;i--){
             int power =0;
             double pow = Math.pow(2, power);
-            int value = s.charAt(i)-'0';
+          //  int value = s.charAt(i)-'0';
            // System.out.println(s.charAt(i).getClass().getSimpleName()); 
                 num = num+ s.charAt(i)-'0' * pow;
                 power++;
