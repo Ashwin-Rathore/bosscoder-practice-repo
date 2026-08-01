@@ -6,9 +6,8 @@ public class HCF_TwoNumber {
     int hcf = 0;
     int i =1;
       while(a>=1 && b >=1){
+        if(i==a || a==b) return hcf;
           if(a%i==0 && b%i==0){
-            // a =a/i;
-            // b=b/i;
             if(i>hcf){
               hcf=i;
             }
@@ -22,8 +21,8 @@ public class HCF_TwoNumber {
 
   public static void main(String[] args) {
     
-    int a = 9;
-    int b = 27;
+    int a = 3;
+    int b = 8;
 
     System.out.println(findHCF(a,b));
   }

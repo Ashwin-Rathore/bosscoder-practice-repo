@@ -1,8 +1,8 @@
 package Bosscoder_Module_1.BegineerModule.Session_5_1D_Array_24_May;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+// import java.util.ArrayList;
+// import java.util.Arrays;
+// import java.util.List;
 
 public class MergeTwoSortedLists {
 //  public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -30,7 +30,7 @@ public class MergeTwoSortedLists {
 //    }
   
   public static void main(String[] args) {
-    List<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 4));
-        List<Integer> list2 = new ArrayList<>(Arrays.asList(1, 3, 4));
+    // List<Integer> list1 = new ArrayList<>(Arrays.asList(1, 2, 4));
+    //     List<Integer> list2 = new ArrayList<>(Arrays.asList(1, 3, 4));
   }
 }

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelfDividingNumbers",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_4_26Jul.SelfDividingNumbers",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "kthBitShift",
       "request": "launch",
       "mainClass": "Bosscoder_Module_2.Session_3_25Jul.kthBitShift",
