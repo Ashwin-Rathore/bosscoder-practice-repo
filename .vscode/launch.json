@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueuePractice",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.Queue.QueuePractice",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "MaxSumSubarrayOfSizeK",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.Hashing.MaxSumSubarrayOfSizeK",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "LargestSubarrayWithZerosum",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.Hashing.LargestSubarrayWithZerosum",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "ZeroSumSubarray",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.Hashing.ZeroSumSubarray",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "CountingSort",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.CountingSort",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session5_8Aug.BubbleSort",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_5_1Aug.Palindrome",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "powerOf3",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_5_1Aug.powerOf3",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
+      "name": "Multiply",
+      "request": "launch",
+      "mainClass": "Bosscoder_Module_2.Session_5_1Aug.Multiply",
+      "projectName": "bosscoder-practice-repo_f2beb4f"
+    },
+    {
+      "type": "java",
       "name": "SelfDividingNumbers",
       "request": "launch",
       "mainClass": "Bosscoder_Module_2.Session_4_26Jul.SelfDividingNumbers",
